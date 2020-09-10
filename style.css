@@ -95,3 +95,11 @@ li, input[type=submit] {
     bottom: 5px;
     border: 1px rgb(66, 133, 244) solid;
 }
+.nav-app {
+    display: block;
+    width: 30px;
+    height: 30px;
+    background-position: -133px -44px;
+    background-image: url('https://ssl.gstatic.com/gb/images/i1_1967ca6a.png');
+    background-size: 528px 68px;
+}
